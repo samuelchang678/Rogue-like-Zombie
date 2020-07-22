@@ -1,0 +1,127 @@
+﻿Team Name: KMS
+
+
+Group Member: Teng Kong Man(30136075)
+                        Samuel Chang Chew Leong(30122600)
+
+
+Member Email :kten0002@student.monash.edu
+                      scha0091@student.monash.edu
+
+
+Tutorial : Tuesday 4 - 6PM
+
+
+ Work Breakdown Agreement 
+Assignment 1
+
+
+A meeting was held initially to decide which of us will be doing which task and design and adding any extra features to the current game design.It was decided that the assignment will be broken down into 2 parts. Both of us will be doing the UML Class Diagram and the Design Rationale. There will be daily checkups and meetings over the assignment progress. Each will review the other’s work and comment on it and decide what to add/remove 
+Assignment1
+Diagrams
+	Student
+	UML Class Diagram
+	Samuel Chang & Kong Man
+	Human Eat Sequence Diagram 
+	Kong Man
+	Zombie Bite Sequence Diagram
+	Kong Man
+	Zombie Speak Sequence Diagram 
+	Kong Man
+	Design Rationale
+	Samuel Chang & Kong Man
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assignment 2
+We split the work into distinctive features to be added into the game . Each feature comes with its own Behaviour , Action and sometimes Capability class. We split the workload accordingly as the table shown below. Samuel is in charge of implementing
+Sow, Speak, Fertilise , Zombie Attack features, introduced the Farmer class and created a pickUpBehaviour for Zombie . Kong Man is in Charge of implementing Harvest, Craft, Eat and Zombie limbs dropping features. He is also responsible for  introducing PortableWeapon,Crop, Food, Leg, Hand , ZombieMace, ZombieClub and Corpse classes.
+Tests were performed for each feature by both sides to ensure that the program ran without error. 
+
+
+Classes 
+	Student
+	SowBehaviour, SowCapability  & SowAction 
+	Samuel Chang
+	SpeakBehaviour & SpeakAction
+	Samuel Chang
+	FertiliseBehaviour & FertiliseBehaviour
+	Samuel Chang
+	HarvestAction, HarvestBehaviour & HarverstCapability
+	Kong Man
+	CraftAction & CraftCapability
+	Kong Man
+	Famer 
+	Samuel Chang
+	Leg & Hand
+	Kong Man
+	PortableWeapon & ZombieMace & ZombieClub
+	Kong Man
+	Corpse
+	Kong Man
+	EatAction,EatBehaviour,EatCapability & Food
+	Kong Man
+	PickUpBehaviour(Zombie)
+	Samuel Chang
+	Zombie Attack
+	Samuel Chang
+	Zombie Limbs Dropping
+	Kong Man
+	Crop
+	Kong Man
+	
+
+
+
+Assignment3 
+Kong Man will be implementing Mambo Marie, 2 GameMap and Ending the game feature
+Samuel will be implementing the new Weapon ,Shotgun and Sniper. He also will implement the reload feature.
+Tests were performed for each feature by both sides to ensure that the program ran without error. 
+The table below will be added by both parties after a new Class is added : 
+Classes 
+	Student
+	GameWorld
+	Kong Man
+	ChantingAction
+	Kong Man
+	MamboMarie
+	Kong Man
+	ZombieGameMap
+	Kong Man
+	Vehicle
+	Kong Man
+	WeaponGuns
+	Samuel Chang
+	Shotgun 
+	Samuel Chang
+	Sniper
+	Samuel Chang
+	ChooseShotgunAction
+	Samuel Chang
+	ChooseSniperAction
+	Samuel Chang
+	ChooseTargetAction
+	Samuel Chang
+	AimAction
+	Samuel Chang
+	ShootAction
+	Samuel Chang
+	AoeAction
+	Samuel Chang
+	ReloadAction
+	Samuel Chang
+	Ammunition
+	Samuel Chang
+	Samuel Chang : I agree to this WBA
+Kong Man : I agreed to this WBA
